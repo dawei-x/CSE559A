@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code and documentation related to my graduate studies project, Conformal Prediction for Image Classification. CSE 559A Computer Vision, taught by [Nathan Jacobs](https://jacobsn.github.io/)
+This repository contains the code and documentation related to my course project Conformal Prediction for Image Classification as part of CSE 559A Computer Vision, taught by [Nathan Jacobs](https://jacobsn.github.io/)
 
 Please have those code files opened on Google Colab. We refactored the code and implemented all experiments entirely on Google Colab.
 ## Contact
