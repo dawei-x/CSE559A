@@ -3,7 +3,7 @@
 
 ### Overview
 
-This repository contains partial code files related to our replication project **Conformal Prediction for Image Classification** as part of `CSE 559A: Computer Vision`, taught by [Nathan Jacobs](https://engineering.wustl.edu/faculty/Nathan-Jacobs.html). Full project details are not disclosed here due to privacy and academic integrity constraints as a student group project in WashU CSE. 
+This repository contains partial code files related to our replication project **Conformal Prediction for Image Classification** as part of `CSE 559A: Computer Vision` taught by [Nathan Jacobs](https://engineering.wustl.edu/faculty/Nathan-Jacobs.html). Full project details are not disclosed here due to privacy and academic integrity constraints as a student group project in WashU CSE. 
 
 We appreciate the authors' official repository [conformal_classification](https://github.com/aangelopoulos/conformal_classification), from which we largely refactored our code. Our effort was intended to replicate experiments in the authors' paper 
 [Uncertainty Sets for Image Classifiers using Conformal Prediction](https://arxiv.org/abs/2009.14193)
